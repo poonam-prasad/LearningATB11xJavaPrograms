@@ -10,6 +10,7 @@ public class Lab008_Comments {
          **/
 //  Method implementation
     public static void main(String[] args) {
+        //  Method implementation
         System.out.println("1");
         System.out.print("2");
 

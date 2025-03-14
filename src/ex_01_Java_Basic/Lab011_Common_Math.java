@@ -1,5 +1,7 @@
 package ex_01_Java_Basic;
 
+import javax.xml.transform.stream.StreamSource;
+
 public class Lab011_Common_Math {
 
     public static void main(String[] args) {
@@ -8,6 +10,7 @@ public class Lab011_Common_Math {
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
+        System.out.println(a%b);
 
     }
 }

@@ -1,4 +1,4 @@
-package ex_02_Java_Basics_Part2;
+package Tasks;
 
 public class TableOf9 {
 
@@ -16,6 +16,9 @@ public class TableOf9 {
         System.out.printf("%d*8=%d\n",num,num*8);
         System.out.printf("%d*9=%d\n",num,num*9);
         System.out.printf("%d*10=%d",num,num*10);
+
+
+
 
     }
 }
