@@ -8,5 +8,7 @@ public class Math_Functions {
 
         double result=Math.cbrt(Math.pow(x,2)+Math.pow(y,2)-Math.abs(z));
         System.out.println(result);
+        int a=10;
+        System.out.println(++a + a++ + a++); // 11+11+12
     }
 }
