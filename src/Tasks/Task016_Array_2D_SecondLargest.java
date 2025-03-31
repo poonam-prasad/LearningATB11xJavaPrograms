@@ -45,7 +45,7 @@ public class Task016_Array_2D_SecondLargest {
         for(int i=0;i<row;i++) {
             for (int j = 0; j < column; j++) {
                 if (array[i][j] > max) {
-                    second_largest = max;
+                    second_largest = max;//second largest before max
                     max = array[i][j];
 
                 } else if (array[i][j] > second_largest && array[i][j] != max) {
