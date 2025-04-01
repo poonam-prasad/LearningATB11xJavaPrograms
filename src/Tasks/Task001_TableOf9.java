@@ -1,6 +1,6 @@
 package Tasks;
 
-public class TableOf9 {
+public class Task001_TableOf9 {
 
     //Printing Table of 9 using printf
 
