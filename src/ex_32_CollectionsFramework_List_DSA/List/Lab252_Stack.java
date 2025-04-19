@@ -1,4 +1,4 @@
-package ex_32_CollectionsFramework_List_DSA;
+package ex_32_CollectionsFramework_List_DSA.List;
 
 import java.util.Stack;
 

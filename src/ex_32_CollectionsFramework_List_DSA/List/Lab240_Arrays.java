@@ -1,4 +1,4 @@
-package ex_32_CollectionsFramework_List_DSA;
+package ex_32_CollectionsFramework_List_DSA.List;
 
 public class Lab240_Arrays {
     public static void main(String[] args) {

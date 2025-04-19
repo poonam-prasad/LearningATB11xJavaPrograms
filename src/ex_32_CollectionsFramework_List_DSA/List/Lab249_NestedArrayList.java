@@ -1,9 +1,7 @@
-package ex_32_CollectionsFramework_List_DSA;
+package ex_32_CollectionsFramework_List_DSA.List;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Vector;
 
 public class Lab249_NestedArrayList {
     public static void main(String[] args) {
